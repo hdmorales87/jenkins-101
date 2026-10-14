@@ -1,2 +1,2 @@
 
-print("Hello world fron cronjob")
+print("Hello world fron cronjob 2")
